@@ -4,7 +4,7 @@
     --botao-azul: #167BF7;
     --cor-de-fundo: #00030C;
     --fonte-principal: 'Inter';
-    --botao-azul-efeito: #3c92fa;
+    --botao-azul-efeito: #5f58f7;
 }
 
 body {
@@ -184,4 +184,12 @@ body {
     .rodape__lista {
         display: block;
     }
+}
+
+.footer {
+    background-color: #f1f1f1;
+    text-align: center;
+    padding: 20px;
+    font-size: 14px;
+    color: #333;
 }
